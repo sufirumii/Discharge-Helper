@@ -1,0 +1,548 @@
+[
+ {
+  "id": "case-01",
+  "text": "Snehalata Multispeciality Hospital, Nagpur\nDepartment of Cardiology\nPatient: Gopal Rao, 58 / Male\nAdmitted: 03/11/2026\nDischarged: 08/11/2026\n\nDIAGNOSIS: Non ST elevation myocardial infarction. Hypertension, type 2 diabetes mellitus.\n\nHOSPITAL COURSE: Patient came with chest discomfort. Troponin positive. Managed with antiplatelets and heparin. Angiography showed double vessel disease, PTCA with DES to LAD. Stable at discharge.\n\nHOME MEDICATIONS:\nTab. Telma AM 40 1-0-0\nTab. Ecosprin 75 1-0-0\nTab. Glycomet 500 1-0-1\n\nDISCHARGE MEDICATIONS:\n1. Tab. Ecosprin AV 75/10 1-0-0\n2. Tab. Brilinta 90 1-0-1 x 12 months\n3. Tab. Atorva 40 0-0-1\n4. Tab. Glycomet 500 1-0-1 continue\n5. Tab. Telma AM 40 1-0-0\n6. Tab. Rosuvas 10 0-0-1 (replaced Atorva 20)\n7. Syp. Digene 10 ml SOS\n\nADVICE: Cardiac rehabilitation after 2 weeks. No smoking.\n\nFOLLOW UP: Cardiology OPD after 10 days i.e. 18/11/2026.\n\nPENDING TESTS: Lipid profile, HbA1c after 1 month.\n\nWARNING SIGNS: If chest pain or sweating returns, go to the emergency department immediately. If giddiness or blackouts, call your doctor.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Ecosprin AV",
+     "strength": "75/10",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Brilinta",
+     "strength": "90",
+     "frequencyText": "1-0-1",
+     "durationDays": 360
+    },
+    {
+     "name": "Atorva",
+     "strength": "40",
+     "frequencyText": "0-0-1"
+    },
+    {
+     "name": "Glycomet",
+     "strength": "500",
+     "frequencyText": "1-0-1",
+     "durationDays": null,
+     "durationKind": "continue"
+    },
+    {
+     "name": "Telma AM",
+     "strength": "40",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Rosuvas",
+     "strength": "10",
+     "frequencyText": "0-0-1"
+    },
+    {
+     "name": "Digene",
+     "frequencyText": "SOS"
+    }
+   ],
+   "followups": 2,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-02",
+  "text": "MARIGOLD NURSING HOME, INDORE\nGENERAL MEDICINE\nName: Farida Sheikh, 44 / F\nIP No: MN-2026-5521\nD.O.A.: 12/11/2026\nD.O.D.: 16/11/2026\n\nDIAGNOSIS: Community acquired pneumonia, right lower lobe.\n\nHOSPITAL COURSE: Fever with cough for 5 days. Chest X-ray showed right lower lobe consolidation. Started on IV antibiotics, switched to oral. Afebrile for 48 hours before discharge.\n\nMEDICATIONS ON DISCHARGE:\nTab. Augmentin 625 mg 1-1-1 x 5 days\nTab. Dolo 650 1-1-1 x 3 days\nTab. Levocet 5 0-0-1 x 7 days\nCap. Ventryl D 1-0-1 x 5 days\nSyp. Ascoril LS 10 ml 1-0-1 x 5 days\nTab. Pan 40 1-0-0 before food x 5 days\n\nDIET: Soft diet, plenty of fluids.\n\nFOLLOW UP: Medicine OPD after 5 days with X-ray.\n\nWARNING SIGNS: If breathlessness or fever above 100 returns, come to emergency immediately.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Augmentin",
+     "strength": "625 mg",
+     "frequencyText": "1-1-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Dolo",
+     "strength": "650",
+     "frequencyText": "1-1-1",
+     "durationDays": 3
+    },
+    {
+     "name": "Levocet",
+     "strength": "5",
+     "frequencyText": "0-0-1",
+     "durationDays": 7
+    },
+    {
+     "name": "Ventryl D",
+     "frequencyText": "1-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Ascoril LS",
+     "frequencyText": "1-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0",
+     "durationDays": 5
+    }
+   ],
+   "followups": 1,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-03",
+  "text": "Sunrise Heritage Hospital, Hyderabad\nPaediatrics\nPatient: Aarav Menon, 6 years / M\nReg No: SHH-PED-2026-3312\nAdmitted: 20/11/2026\nDischarged: 23/11/2026\n\nDIAGNOSIS: Acute bronchiolitis.\n\nHOSPITAL COURSE: Cough and fast breathing for 3 days. Hypoxia on admission, needed oxygen for 2 days. Fed well from day 2. Discharged in stable condition.\n\nMEDICATIONS AT DISCHARGE:\nSyp. Ascoril LS 2.5 ml 1-0-1 x 5 days\nSyp. Crocin 250 5 ml SOS for fever\nNeb. Levolin 1.25 mg via nebuliser TDS x 3 days\nNeb. Budecort 0.5 mg via nebuliser BD x 5 days\nSyp. Zincovit 5 ml 1-0-0 x 14 days\n\nADVICE: Steam inhalation. Small frequent feeds. Avoid smoke exposure.\n\nFOLLOW UP: Paediatric OPD after 5 days.\n\nWARNING SIGNS: If fast breathing returns, come to emergency immediately.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Ascoril LS",
+     "frequencyText": "1-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Crocin",
+     "strength": "250",
+     "frequencyText": "SOS"
+    },
+    {
+     "name": "Levolin",
+     "strength": "1.25 mg",
+     "frequencyText": "TDS",
+     "durationDays": 3
+    },
+    {
+     "name": "Budecort",
+     "strength": "0.5 mg",
+     "frequencyText": "BD",
+     "durationDays": 5
+    },
+    {
+     "name": "Zincovit",
+     "frequencyText": "1-0-0",
+     "durationDays": 14
+    }
+   ],
+   "followups": 1,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-04",
+  "text": "Greenfield Medical Centre, Lucknow\nObstetrics and Gynaecology\nName: Priyanka Trivedi, 29 / F\nUR No: GMC/2026/9104\nAdmitted: 01/12/2026\nDischarged: 04/12/2026\n\nDIAGNOSIS: Full term normal delivery. Postpartum day 3. Anaemia (mild).\n\nHOSPITAL COURSE: Spontaneous vaginal delivery, healthy baby girl. Third stage managed with oxytocin. Hemoglobin 10.2. Breastfeeding established. Discharged in stable condition.\n\nDISCHARGE MEDICATIONS:\nTab. Pan 40 1-0-0 before food x 14 days\nTab. Orofer 1-0-1 x 30 days\nCap. Calcirol 60 1 sachet weekly x 8 weeks\nTab. Shelcal HD 0-0-1 continue\nTab. Tranexa 500 1-0-1 x 5 days\nSyp. Duphalac 15 ml HS x 7 days\n\nADVICE: Continue iron rich diet. Exclusive breastfeeding. Perineal hygiene.\n\nFOLLOW UP: Obstetrics OPD after 14 days with baby for vaccination.\n\nWARNING SIGNS: If heavy bleeding or fever, come to the emergency immediately.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0",
+     "durationDays": 14
+    },
+    {
+     "name": "Orofer",
+     "frequencyText": "1-0-1",
+     "durationDays": 30
+    },
+    {
+     "name": "Calcirol",
+     "strength": "60",
+     "frequencyText": "weekly"
+    },
+    {
+     "name": "Shelcal HD",
+     "frequencyText": "0-0-1",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Tranexa",
+     "strength": "500",
+     "frequencyText": "1-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Duphalac",
+     "frequencyText": "HS",
+     "durationDays": 7
+    }
+   ],
+   "followups": 1,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-05",
+  "text": "Lotus Care Multispeciality Hospital, Pune\nOrthopaedics\nPatient: Harpreet Kaur, 67 / Female\nMRN: LC-2026-91140\nAdmitted: 07/11/2026\nDischarged: 13/11/2026\n\nDIAGNOSIS: Osteoarthritis right knee. Post right total knee replacement (POD 6).\n\nHOSPITAL COURSE: Elective total knee replacement done. Physiotherapy started from day 1. Wound healthy, staples removed. Knee flexion 100 degrees. DVT prophylaxis given during stay.\n\nMEDICATIONS ON ADMISSION:\nTab. Telma 40 1-0-0\nTab. Shelcal HD 0-0-1\n\nDISCHARGE MEDICATIONS:\n1. Tab. Dolo 650 1-1-1 x 5 days\n2. Tab. Combiflam SOS for pain\n3. Tab. Ecosprin 75 1-0-0 continue\n4. Tab. Rosuvas 10 0-0-1 continue\n5. Tab. Pan 40 1-0-0 before food\n6. Tab. Shelcal HD 0-0-1 continue\n7. Inj. Enoxaparin 40 mg SC OD x 10 days\n8. Tab. Dytor 10 1-0-0 x 7 days, then review\n\nDIET: High protein diet.\n\nACTIVITY: Walker for 2 weeks. Knee exercises daily.\n\nFOLLOW UP: Ortho OPD after 10 days with X-ray knee standing.\n\nPENDING TESTS: CBC after 2 weeks.\n\nWARNING SIGNS: If calf pain or swelling, or breathlessness, attend emergency immediately. If wound redness or discharge, call your doctor.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Dolo",
+     "strength": "650",
+     "frequencyText": "1-1-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Combiflam",
+     "frequencyText": "SOS"
+    },
+    {
+     "name": "Ecosprin",
+     "strength": "75",
+     "frequencyText": "1-0-0",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Rosuvas",
+     "strength": "10",
+     "frequencyText": "0-0-1",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Shelcal HD",
+     "frequencyText": "0-0-1",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Enoxaparin",
+     "strength": "40 mg",
+     "frequencyText": "OD",
+     "durationDays": 10
+    },
+    {
+     "name": "Dytor",
+     "strength": "10",
+     "frequencyText": "1-0-0",
+     "durationDays": 7
+    }
+   ],
+   "followups": 2,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-06",
+  "text": "Anandam Hospital, Vijayawada\nGeneral Surgery\nPatient: K. Ramesh Babu, 41 / M\nIP No: AH-2026-77012\nD.O.A.: 15th Nov\nD.O.D.: 18th Nov 2026\n\nDIAGNOSIS: Acute appendicitis. Post laparoscopic appendicectomy (POD 3).\n\nHOSPITAL COURSE: Laparoscopic appendicectomy done on admission day. Histopathology sent. Tolerated orals from POD 1. Discharged in stable condition.\n\nMEDICATIONS AT DISCHARGE:\nCap. Monocef O 200 1-0-1 x 5 days\nTab. Dolo 650 1-1-1 x 3 days\nTab. Combiflam SOS\nTab. Ondem 4 1-0-1 x 2 days\nSyp. Cremaffin 15 ml HS x 5 days\nTab. Pan 40 1-0-0 before food x 5 days\nTab. Chymoral Forte 1-1-1 x 5 days\n\nWOUND CARE: Keep wound clean and dry.\n\nDIET: Clear fluids today, soft diet from tomorrow.\n\nFOLLOW UP: Surgical OPD on 28/11/2026 with histopathology report. Stitch removal after 10 days.\n\nWARNING SIGNS: Fever above 100, wound discharge or severe pain — attend surgical emergency immediately.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Monocef O",
+     "strength": "200",
+     "frequencyText": "1-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Dolo",
+     "strength": "650",
+     "frequencyText": "1-1-1",
+     "durationDays": 3
+    },
+    {
+     "name": "Combiflam",
+     "frequencyText": "SOS"
+    },
+    {
+     "name": "Ondem",
+     "strength": "4",
+     "frequencyText": "1-0-1",
+     "durationDays": 2
+    },
+    {
+     "name": "Cremaffin",
+     "frequencyText": "HS",
+     "durationDays": 5
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0",
+     "durationDays": 5
+    },
+    {
+     "name": "Chymoral Forte",
+     "frequencyText": "1-1-1",
+     "durationDays": 5
+    }
+   ],
+   "followups": 1,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-07",
+  "text": "Marigold Hospital, Coimbatore\nNeurology\nPatient: Sundaram Iyer, 72 / M\nIP No: MH-91-2026-5520\nAdmitted: 09/12/2026\nDischarged: 15/12/2026\n\nDIAGNOSIS: Acute ischaemic stroke left middle cerebral artery. Hypertension, atrial fibrillation.\n\nHOSPITAL COURSE: Sudden right sided weakness and slurring of speech. Thrombolysed within 3 hours. Weakness improving at discharge. SWALLOW SAFE for tablets.\n\nMEDICATIONS ON ADMISSION:\nTab. Telma 40 1-0-0\nTab. Metolar XR 25 1-0-0\n\nDISCHARGE MEDICATIONS:\n1. Tab. Ecosprin AV 75/10 1-0-0\n2. Tab. Brilinta 90 1-0-1 x 21 days\n3. Tab. Rosuvas 10 0-0-1\n4. Tab. Telma 40 1-0-0 continue\n5. Tab. Metolar XR 25 1-0-1 (increased from once daily)\n6. Tab. Pan 40 1-0-0 before breakfast\n7. Tab. Donecept 5 0-0-1 x 30 days\n8. Syp. Duphalac 15 ml SOS\n\nADVICE: Physiotherapy daily. Swallow exercises. Blood pressure monitoring at home.\n\nFOLLOW UP: Neurology OPD after 14 days with CT brain film. Physiotherapy review weekly.\n\nPENDING TESTS: Lipid profile, HbA1c, echo after 1 month.\n\nWARNING SIGNS: If weakness increases or new slurring, rush to emergency immediately (stroke can recur). If bleeding from gums or black stools, inform your doctor.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Ecosprin AV",
+     "strength": "75/10",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Brilinta",
+     "strength": "90",
+     "frequencyText": "1-0-1",
+     "durationDays": 21
+    },
+    {
+     "name": "Rosuvas",
+     "strength": "10",
+     "frequencyText": "0-0-1"
+    },
+    {
+     "name": "Telma",
+     "strength": "40",
+     "frequencyText": "1-0-0",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Metolar XR",
+     "strength": "25",
+     "frequencyText": "1-0-1"
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Donecept",
+     "strength": "5",
+     "frequencyText": "0-0-1",
+     "durationDays": 30
+    },
+    {
+     "name": "Duphalac",
+     "frequencyText": "SOS"
+    }
+   ],
+   "followups": 2,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-08",
+  "text": "Snehalata Hospital, Nagpur\nGeneral Medicine\nName: Anita Deshmukh, 35 / F\nIP: SN-2026-4412\nAdmitted: 27/11/2026\nDischarged: 01/12/2026\n\nDIAGNOSIS: Dengue fever with warning signs. Thrombocytopenia.\n\nHOSPITAL COURSE: Fever with body ache and vomiting. Platelets dropped to 80,000. Given IV fluids. Platelet count rising at discharge (1.4 lakh). No bleeding manifestations.\n\nDISCHARGE MEDICATIONS:\nTab. Dolo 650 1-1-1 x 3 days\nTab. Pan 40 1-0-0 before food x 5 days\nTab. Ondem 4 SOS for vomiting\nSyp. Zincovit 10 ml 1-0-0 x 15 days\nTab. Levocet 5 0-0-1 x 5 days for itching\n\nADVICE: Daily platelet monitoring for 3 days at local lab. Plenty of oral fluids. Avoid NSAIDs.\n\nFOLLOW UP: Medicine OPD after 3 days with CBC report.\n\nPENDING TESTS: CBC after 3 days.\n\nWARNING SIGNS: If gum bleeding, black stools, severe abdominal pain or drowsiness, go to the emergency department immediately.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Dolo",
+     "strength": "650",
+     "frequencyText": "1-1-1",
+     "durationDays": 3
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0",
+     "durationDays": 5
+    },
+    {
+     "name": "Ondem",
+     "strength": "4",
+     "frequencyText": "SOS"
+    },
+    {
+     "name": "Zincovit",
+     "frequencyText": "1-0-0",
+     "durationDays": 15
+    },
+    {
+     "name": "Levocet",
+     "strength": "5",
+     "frequencyText": "0-0-1",
+     "durationDays": 5
+    }
+   ],
+   "followups": 3,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-09",
+  "text": "Greenfield Medical Centre, Lucknow\nPulmonology\nPatient: Mohan Pillai, 54 / M\nUR No: GMC/2026/8890\nD.O.A.: 05/12/2026\nD.O.D.: 09/12/2026\n\nDIAGNOSIS: Acute exacerbation of COPD. Type 2 diabetes mellitus.\n\nHOSPITAL COURSE: Increased cough with breathlessness. Neubilised with duolin and budecort. Steroids given, taper started. Sugars monitored. Improved to baseline.\n\nHOME MEDICATIONS BEFORE ADMISSION:\nTab. Glycomet 500 1-0-1\nInj. Lantus 16 units HS\nTab. Duova 1-0-1\n\nDISCHARGE MEDICATIONS:\n1. Tab. Omnacortil 10 mg 1-0-0 x 5 days, then 5 mg 1-0-0 x 5 days, then stop\n2. Cap. Duova 1-0-1 continue\n3. Tab. Glycomet 500 1-0-1 continue\n4. Inj. Lantus 16 units SC at bedtime\n5. Syp. Ascoril LS 10 ml 1-0-1 x 7 days\n6. Tab. Allegra 120 1-0-0 x 10 days\n7. Tab. Pan 40 1-0-0 before food\n8. Duolin HFA inhaler 2 puffs SOS\n\nADVICE: Inhaler technique rechecked. Avoid dust and smoke. Annual influenza vaccine.\n\nFOLLOW UP: Pulmonology OPD after 10 days. Spirometry at visit.\n\nPENDING TESTS: HbA1c at review.\n\nWARNING SIGNS: If speech difficulty with breathlessness or lips turning blue, rush to the emergency immediately.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Omnacortil",
+     "strength": "10 mg",
+     "frequencyText": "1-0-0",
+     "course": "taper"
+    },
+    {
+     "name": "Duova",
+     "frequencyText": "1-0-1",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Glycomet",
+     "strength": "500",
+     "frequencyText": "1-0-1",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Lantus",
+     "frequencyText": "at bedtime"
+    },
+    {
+     "name": "Ascoril LS",
+     "frequencyText": "1-0-1",
+     "durationDays": 7
+    },
+    {
+     "name": "Allegra",
+     "strength": "120",
+     "frequencyText": "1-0-0",
+     "durationDays": 10
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Duolin HFA",
+     "frequencyText": "SOS"
+    }
+   ],
+   "followups": 2,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-10",
+  "text": "Anandam Hospital, Vijayawada\nEndocrinology\nPatient: Sunita Verma, 48 / F\nIP No: AH-2026-70021\nAdmitted: 18/11/2026\nDischarged: 21/11/2026\n\nDIAGNOSIS: Type 2 diabetes mellitus, uncontrolled. Diabetic ketoacidosis (recovered).\n\nHOSPITAL COURSE: Vomiting and high sugars (RBS 420). Corrected with IV fluids and insulin infusion. Shifted to basal bolus. Ketones cleared. Hypoglycaemia education given.\n\nMEDICATIONS ON DISCHARGE:\nInj. Basalog 18 units SC at bedtime\nInj. Human Actrapid 8 units SC before breakfast and 6 units before dinner\nTab. Glycomet 500 1-0-1\nTab. Pan 40 1-0-0 before food\nTab. Thyronorm 50 1-0-0 before breakfast\nTab. Shelcal HD 0-0-1\n\nADVICE: Home glucose monitoring twice daily. Carry glucose meter and diary to every visit. If sugar below 70, take 15 g sugar immediately.\n\nDIET: 1600 kcal diabetic diet. Walk 30 minutes daily.\n\nFOLLOW UP: Diabetes OPD on 28/11/2026 with sugar diary.\n\nPENDING TESTS: HbA1c, urine microalbumin, fundus examination.\n\nWARNING SIGNS: If vomiting returns with rapid breathing, go to hospital immediately. If wound on foot does not heal, inform your doctor.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Basalog",
+     "frequencyText": "at bedtime"
+    },
+    {
+     "name": "Human Actrapid",
+     "frequencyText": "before breakfast and before dinner"
+    },
+    {
+     "name": "Glycomet",
+     "strength": "500",
+     "frequencyText": "1-0-1"
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Thyronorm",
+     "strength": "50",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Shelcal HD",
+     "frequencyText": "0-0-1"
+    }
+   ],
+   "followups": 3,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-11",
+  "text": "Sunrise Heritage Hospital, Hyderabad\nNephrology\nPatient: Abdul Rahman, 61 / M\nReg No: SHH-NEP-2026-0091\nAdmitted: 22/11/2026\nDischarged: 28/11/2026\n\nDIAGNOSIS: Chronic kidney disease stage 4. Acute on chronic kidney injury (recovering). Hypertension.\n\nHOSPITAL COURSE: Urea 140, creatinine 5.8 at admission. Fluids and diuretics. Creatinine 3.9 at discharge. Urine output adequate. Nephrology follow up planned.\n\nHOME MEDICATIONS:\nTab. Telma 40 1-0-0\nTab. Dytor 10 1-0-0\nTab. Shelcal HD 0-0-1\n\nDISCHARGE MEDICATIONS:\n1. Tab. Telma 40 1-0-0 continue\n2. Tab. Dytor 10 1-0-1 (increased)\n3. Tab. Pan 40 1-0-0 before food\n4. Tab. Ondem 4 1-0-1 x 5 days\n5. Tab. Ecosprin 75 1-0-0 hold till nephrology review\n6. Tab. Shelcal HD 0-0-1 continue\n7. Syp. Duphalac 15 ml HS continue\n\nDIET: Low potassium, low salt diet. Fluid restriction 1 litre per day.\n\nFOLLOW UP: Nephrology OPD after 7 days with creatinine report. Dialysis counselling at visit if needed.\n\nPENDING TESTS: Serum creatinine, electrolytes, ultrasound KUB after 1 week.\n\nWARNING SIGNS: If decreased urine output, breathlessness at night or swelling increases, come to emergency immediately.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Telma",
+     "strength": "40",
+     "frequencyText": "1-0-0",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Dytor",
+     "strength": "10",
+     "frequencyText": "1-0-1"
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0"
+    },
+    {
+     "name": "Ondem",
+     "strength": "4",
+     "frequencyText": "1-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Ecosprin",
+     "strength": "75",
+     "frequencyText": "1-0-0",
+     "course": "hold"
+    },
+    {
+     "name": "Shelcal HD",
+     "frequencyText": "0-0-1",
+     "durationKind": "continue"
+    },
+    {
+     "name": "Duphalac",
+     "frequencyText": "HS",
+     "durationKind": "continue"
+    }
+   ],
+   "followups": 2,
+   "warnings": 1
+  }
+ },
+ {
+  "id": "case-12",
+  "text": "Lotus Care Hospital, Pune\nOncology Day Care\nPatient: Vasanti Patil, 52 / F\nMRN: LC-2026-4471\nAdmitted: 30/11/2026\nDischarged: 30/11/2026\n\nDIAGNOSIS: Carcinoma right breast, post chemotherapy cycle 3. Neutropenia (recovered).\n\nHOSPITAL COURSE: Day care admission for chemotherapy. Tolerated well with antiemetics. Discharged same evening with oral medications.\n\nDISCHARGE MEDICATIONS:\nTab. Ondem 8 1-0-1 x 3 days\nTab. Dexa 4 1-0-1 x 3 days\nTab. Pan 40 1-0-0 before food x 5 days\nTab. Cloheal Plus 1-0-0 x 7 days\nCap. Ventryl D 1-0-1 x 5 days\nTab. Zolfresh 5 0-0-1 x 5 days\nSyp. Duphalac 15 ml SOS\n\nADVICE: Report fever above 100 immediately — it is an emergency during chemotherapy.\n\nFOLLOW UP: Medical oncology OPD after 14 days for cycle 4. CBC after 7 days.\n\nWARNING SIGNS: Fever above 100 F — attend emergency immediately. Severe vomiting or mouth ulcers — call your doctor.\n",
+  "expected": {
+   "medications": [
+    {
+     "name": "Ondem",
+     "strength": "8",
+     "frequencyText": "1-0-1",
+     "durationDays": 3
+    },
+    {
+     "name": "Dexa",
+     "strength": "4",
+     "frequencyText": "1-0-1",
+     "durationDays": 3
+    },
+    {
+     "name": "Pan",
+     "strength": "40",
+     "frequencyText": "1-0-0",
+     "durationDays": 5
+    },
+    {
+     "name": "Cloheal Plus",
+     "frequencyText": "1-0-0",
+     "durationDays": 7
+    },
+    {
+     "name": "Ventryl D",
+     "frequencyText": "1-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Zolfresh",
+     "strength": "5",
+     "frequencyText": "0-0-1",
+     "durationDays": 5
+    },
+    {
+     "name": "Duphalac",
+     "frequencyText": "SOS"
+    }
+   ],
+   "followups": 2,
+   "warnings": 2
+  }
+ }
+]

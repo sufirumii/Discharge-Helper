@@ -1,0 +1,65 @@
+{
+  "name": "discharge-helper",
+  "private": false,
+  "description": "Paste your hospital discharge papers. Get your medicine list, a daily timetable, and a sheet to hand your chemist. Runs entirely in your browser.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "lexicon": "node scripts/build-lexicon.mjs",
+    "eval": "vite-node scripts/eval.ts",
+    "verify:repo": "node scripts/verify-repo.mjs",
+    "verify": "npm run lint && npm run typecheck && npm test && npm run lexicon -- --check && npm run eval && npm run build && npm run verify:repo"
+  },
+  "dependencies": {
+    "@fontsource/atkinson-hyperlegible": "5.3.0",
+    "@fontsource/lora": "5.3.0",
+    "pdfjs-dist": "6.5.438",
+    "qrcode": "1.5.4",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.65.0",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.3.0",
+    "eslint": "9.39.5",
+    "jsdom": "^31.0.1",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.72.2",
+    "vite": "8.3.8",
+    "vitest": "5.1.0",
+    "vite-node": "6.0.0"
+  },
+  "keywords": [
+    "healthcare",
+    "discharge",
+    "medication-safety",
+    "pwa",
+    "offline-first",
+    "privacy",
+    "india",
+    "open-source"
+  ],
+  "homepage": "https://sufirumii.github.io/Discharge-Helper/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sufirumii/Discharge-Helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sufirumii/Discharge-Helper/issues"
+  }
+}

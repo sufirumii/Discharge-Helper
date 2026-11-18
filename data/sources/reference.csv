@@ -1,0 +1,82 @@
+table,key,label,a,b,note,pattern,why,action,match,source,source_url,license
+forms,tab,tablet,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,tabs,tablet,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,tablet,tablet,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,tablets,tablet,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,cap,capsule,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,caps,capsule,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,capsule,capsule,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,capsules,capsule,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,syp,syrup,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,syrup,syrup,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,susp,suspension,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,suspension,suspension,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,soln,suspension,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,solution,suspension,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,elixir,suspension,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,inj,injection,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,injection,injection,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,amp,injection,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,vial,injection,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,oint,ointment,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,ointment,ointment,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,cream,cream,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,gel,gel,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,drops,drops,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,gtts,drops,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,drop,drops,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,inh,inhaler,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,inhaler,inhaler,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,rotacap,rotacap,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,respule,respule,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,neb,nebuliser,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,nebuliser,nebuliser,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,nebulizer,nebuliser,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,sachet,sachet,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,powder,powder,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,patch,patch,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,supp,suppository,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,suppository,suppository,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+forms,spray,spray,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,po,by mouth,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,oral,by mouth,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,sc,under the skin,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,subcutaneous,under the skin,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,subq,under the skin,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,iv,into a vein,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,im,into a muscle,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,sl,under the tongue,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,pr,in the rectum,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+routes,topical,on the skin,,,,,,,,Project-authored reference table for Indian prescription shorthand.,#project-authored,project-authored (Apache-2.0)
+lasa,,,hydrALAZINE,hydrOXYzine,hydralazine lowers blood pressure; hydroxyzine is an antihistamine used for itching and anxiety.,,,,,FDA Name Differentiation Project; also on the ISMP List of Confused Drug Names,https://www.fda.gov/drugs/medication-errors-related-cder-regulated-drug-products/name-differentiation-project,
+lasa,,,glipiZIDE,glyBURIDE,"Both treat diabetes, but they are different medicines that are not interchangeable. Check the exact name and strength on your label.",,,,,FDA Name Differentiation Project; also on the ISMP List of Confused Drug Names,https://www.fda.gov/drugs/medication-errors-related-cder-regulated-drug-products/name-differentiation-project,
+lasa,,,buPROpion,busPIRone,"bupropion is an antidepressant; buspirone treats anxiety. Similar beginnings, very different medicines.",,,,,FDA Name Differentiation Project; also on the ISMP List of Confused Drug Names,https://www.fda.gov/drugs/medication-errors-related-cder-regulated-drug-products/name-differentiation-project,
+lasa,,,predniSONE,prednisoLONE,Both are corticosteroids but they are not interchangeable; the extra letter changes the medicine.,,,,,ISMP List of Confused Drug Names,https://www.ismp.org/recommendations/confused-drug-names-list,
+lasa,,,cefTRIAXone,cefTAZidime,Two different antibiotics with very similar spellings; check the lettering carefully.,,,,,ISMP List of Confused Drug Names,https://www.ismp.org/recommendations/confused-drug-names-list,
+lasa,,,chlorproMAZINE,chlorproPAMIDE,chlorpromazine is a psychiatric medicine; chlorpropamide lowers blood sugar.,,,,,ISMP List of Confused Drug Names,https://www.ismp.org/recommendations/confused-drug-names-list,
+lasa,,,DAUNOrubicin,DOXOrubicin,Two different chemotherapy medicines whose names differ by only two letters.,,,,,FDA Name Differentiation Project; also on the ISMP List of Confused Drug Names,https://www.fda.gov/drugs/medication-errors-related-cder-regulated-drug-products/name-differentiation-project,
+lasa,,,vinCRISTine,vinBLAStine,Two different chemotherapy medicines with look-alike names.,,,,,FDA Name Differentiation Project; also on the ISMP List of Confused Drug Names,https://www.fda.gov/drugs/medication-errors-related-cder-regulated-drug-products/name-differentiation-project,
+lasa,,,morphine,hydromorphone,Both are strong pain medicines but hydromorphone is several times stronger; a mix-up is dangerous.,,,,,ISMP List of Confused Drug Names,https://www.ismp.org/recommendations/confused-drug-names-list,
+lasa,,,clonazePAM,cloNIDine,clonazepam is used for seizures and anxiety; clonidine lowers blood pressure.,,,,,ISMP List of Confused Drug Names,https://www.ismp.org/recommendations/confused-drug-names-list,
+lasa,,,insulin glargine,insulin glulisine,"Two insulins with very similar names; one is long-acting, the other fast-acting.",,,,,ISMP List of Confused Drug Names,https://www.ismp.org/recommendations/confused-drug-names-list,
+lasa,,,metFORMIN,metronidazole,"metformin treats diabetes; metronidazole is an antibiotic. Similar beginnings, different medicines.",,,,,ISMP List of Confused Drug Names,https://www.ismp.org/recommendations/confused-drug-names-list,
+error_prone,,,,,,QD,easily misread as QID (four times a day) or QOD (every other day),ask to have this rewritten,,ISMP List of Error-Prone Abbreviations,https://www.ismp.org/recommendations/error-prone-abbreviations-list,
+error_prone,,,,,,U,written for units; misread as 0 or 4,ask to have this rewritten,,ISMP List of Error-Prone Abbreviations,https://www.ismp.org/recommendations/error-prone-abbreviations-list,
+error_prone,,,,,,IU,misread as IV (into a vein) or the number 10,ask to have this rewritten,,ISMP List of Error-Prone Abbreviations,https://www.ismp.org/recommendations/error-prone-abbreviations-list,
+error_prone,,,,,,trailing zero (1.0 mg),"the decimal point can be missed, reading as 10 mg",ask to have this rewritten,,ISMP List of Error-Prone Abbreviations,https://www.ismp.org/recommendations/error-prone-abbreviations-list,
+error_prone,,,,,,no leading zero (.5 mg),"the decimal point can be missed, reading as 5 mg",ask to have this rewritten,,ISMP List of Error-Prone Abbreviations,https://www.ismp.org/recommendations/error-prone-abbreviations-list,
+error_prone,,,,,,MSO4,confused with MgSO4 (magnesium sulfate),ask to have this rewritten,,ISMP List of Error-Prone Abbreviations,https://www.ismp.org/recommendations/error-prone-abbreviations-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,insulin,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,warfarin,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,heparin,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,enoxaparin,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,apixaban,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,rivaroxaban,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,dabigatran,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,clopidogrel,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,ticagrelor,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,morphine,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,methotrexate,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,potassium chloride,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,digoxin,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
+high_alert,,,,,double-check the dose with the pharmacist,,,,theophylline,ISMP List of High-Alert Medications (Acute Care),https://www.ismp.org/recommendations/high-alert-medications-acute-list,
